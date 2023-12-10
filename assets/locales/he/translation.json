@@ -51,7 +51,8 @@
       "close": "סגור"
     },
     "links": {
-      "facebook": "https://www.facebook.com/vzecogrow"
+      "facebook": "https://www.facebook.com/vzecogrow",
+      "instagram": "https://instagram.com/valeria_economy?igshid=YzAwZjE1ZTI0Zg=="
     },
     "banner": {
       "button": "בואו נדבר",
@@ -61,5 +62,8 @@
   },
   "articles": {
     "blog": []
+  },
+  "workInProgresse": {
+    "title": "האתר נמצא כרגע בשלבי פיתוח <br/> תוכן נוסף יעלה בקרוב! <br/> מודים לכם על סבלנותכם"
   }
 }

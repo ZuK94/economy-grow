@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/economy-grow/static/css/main.f3d4a6bd.css",
-    "main.js": "/economy-grow/static/js/main.be3bff61.js",
+    "main.css": "/economy-grow/static/css/main.39d3c9ab.css",
+    "main.js": "/economy-grow/static/js/main.fd43ccb0.js",
     "static/js/787.ca098a6f.chunk.js": "/economy-grow/static/js/787.ca098a6f.chunk.js",
     "static/media/main-banner.png": "/economy-grow/static/media/main-banner.57ea42bc847b1afc0e29.png",
     "static/media/portrait-zoom.png": "/economy-grow/static/media/portrait-zoom.2a748f61079c587d3f1f.png",
     "static/media/recommendation-bg.png": "/economy-grow/static/media/recommendation-bg.4f11ffcaeba702774f33.png",
-    "static/media/faq-bg.png": "/economy-grow/static/media/faq-bg.5d61e58a55424b277409.png",
     "static/media/background1.jpg": "/economy-grow/static/media/background1.e1fd305e49d274be17f7.jpg",
     "static/media/blog-banner.jpg": "/economy-grow/static/media/blog-banner.3c72b95bbb6c4efbdf5b.jpg",
     "static/media/bootstrap-icons.woff?": "/economy-grow/static/media/bootstrap-icons.188c4daf771cf463a7f8.woff",
+    "static/media/work-in-progresse2.png": "/economy-grow/static/media/work-in-progresse2.febdd6c2884fa56b1c37.png",
     "static/media/bootstrap-icons.woff2?": "/economy-grow/static/media/bootstrap-icons.20b477712d7957d9b029.woff2",
     "static/media/under-main-banner.png": "/economy-grow/static/media/under-main-banner.925018603906cda92ceb.png",
     "static/media/logoW.png": "/economy-grow/static/media/logoW.334bed44cf2cc6541283.png",
@@ -23,12 +23,12 @@
     "static/media/getFetch.cjs": "/economy-grow/static/media/getFetch.40f37ddea2378391108f.cjs",
     "static/media/check.svg": "/economy-grow/static/media/check.bdc88c3b2912ec65be5bac3a6db885cf.svg",
     "static/media/triangle.svg": "/economy-grow/static/media/triangle.20286c31a8b185610f60635be6472a99.svg",
-    "main.f3d4a6bd.css.map": "/economy-grow/static/css/main.f3d4a6bd.css.map",
-    "main.be3bff61.js.map": "/economy-grow/static/js/main.be3bff61.js.map",
+    "main.39d3c9ab.css.map": "/economy-grow/static/css/main.39d3c9ab.css.map",
+    "main.fd43ccb0.js.map": "/economy-grow/static/js/main.fd43ccb0.js.map",
     "787.ca098a6f.chunk.js.map": "/economy-grow/static/js/787.ca098a6f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3d4a6bd.css",
-    "static/js/main.be3bff61.js"
+    "static/css/main.39d3c9ab.css",
+    "static/js/main.fd43ccb0.js"
   ]
 }
