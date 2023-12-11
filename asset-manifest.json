@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/economy-grow/static/css/main.1c47bd4e.css",
-    "main.js": "/economy-grow/static/js/main.da74c528.js",
+    "main.js": "/economy-grow/static/js/main.ce9ff30b.js",
     "static/js/787.ca098a6f.chunk.js": "/economy-grow/static/js/787.ca098a6f.chunk.js",
     "static/media/main-banner.png": "/economy-grow/static/media/main-banner.57ea42bc847b1afc0e29.png",
     "static/media/portrait-zoom.png": "/economy-grow/static/media/portrait-zoom.2a748f61079c587d3f1f.png",
@@ -24,11 +24,11 @@
     "static/media/check.svg": "/economy-grow/static/media/check.bdc88c3b2912ec65be5bac3a6db885cf.svg",
     "static/media/triangle.svg": "/economy-grow/static/media/triangle.20286c31a8b185610f60635be6472a99.svg",
     "main.1c47bd4e.css.map": "/economy-grow/static/css/main.1c47bd4e.css.map",
-    "main.da74c528.js.map": "/economy-grow/static/js/main.da74c528.js.map",
+    "main.ce9ff30b.js.map": "/economy-grow/static/js/main.ce9ff30b.js.map",
     "787.ca098a6f.chunk.js.map": "/economy-grow/static/js/787.ca098a6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c47bd4e.css",
-    "static/js/main.da74c528.js"
+    "static/js/main.ce9ff30b.js"
   ]
 }
